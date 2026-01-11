@@ -14,7 +14,7 @@
 2. 如存在 `helloagents/wiki/modules/utils.md`：补充/更新对应规范或变更历史
 3. 如知识库缺失：不创建，只提示建议执行 `~init`
 
-## 输出示例（使用 templates/output-format.md）
+## 输出示例（按 G6.1 统一输出格式）
 ```
 ✅【HelloAGENTS】- 微调模式完成
 
@@ -28,4 +28,3 @@
 
 🔄 下一步: 请验证改动效果
 ```
-
